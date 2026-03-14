@@ -1,0 +1,4 @@
+Bakliyat, 10, 25
+Cikolata, 50, 80
+Sakiz, 15, 60
+Su, 25, 150
